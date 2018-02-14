@@ -16,7 +16,7 @@ import skltl.media.ContentManager;
  * inherited methods to write your game.
  * 
  * @version 1.0.0
- * @author © Epichunter 2016 All Rights Reserved
+ * @author Â© Donald Isaac 2016 All Rights Reserved
  */
 public abstract class Game extends JPanel implements Runnable {
 
