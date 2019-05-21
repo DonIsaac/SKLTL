@@ -254,6 +254,7 @@ public abstract class Game extends JPanel implements Runnable {
 		if (renderImage == null) {
 			renderImage = createImage(width, height);
 			if (renderImage == null) {
+				// f
 				return;
 			} else
 				g = (Graphics2D) renderImage.getGraphics();
